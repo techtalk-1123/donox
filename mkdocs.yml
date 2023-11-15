@@ -1,0 +1,8 @@
+site_name: "donox"
+site_description: "donox"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
